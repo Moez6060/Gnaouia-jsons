@@ -1,0 +1,83 @@
+{
+    "homeTeam": {
+      "name": "Home FC",
+      "logoUrl": "https://example.com/home-logo.png",
+      "players": [
+        {
+          "name": "John Doe",
+          "number": 1,
+          "position": "goalKeep"
+        },
+        {
+          "name": "James Smith",
+          "number": 5,
+          "position": "defender"
+        },
+        {
+          "name": "Michael Brown",
+          "number": 10,
+          "position": "midfielder"
+        },
+        {
+          "name": "Chris Johnson",
+          "number": 9,
+          "position": "forward"
+        }
+      ],
+      "goals": 2,
+      "events": [
+        {
+          "EventType": "goal",
+          "time": 23
+        },
+        {
+          "EventType": "goal",
+          "time": 45
+        },
+        {
+          "EventType": "redCard",
+          "time": 75
+        }
+      ]
+    },
+    "awayTeam": {
+      "name": "Away United",
+      "logoUrl": "https://example.com/away-logo.png",
+      "players": [
+        {
+          "name": "David Taylor",
+          "number": 1,
+          "position": "goalKeep"
+        },
+        {
+          "name": "Robert Anderson",
+          "number": 3,
+          "position": "defender"
+        },
+        {
+          "name": "Daniel Thomas",
+          "number": 8,
+          "position": "midfielder"
+        },
+        {
+          "name": "Mark Lewis",
+          "number": 11,
+          "position": "forward"
+        }
+      ],
+      "goals": 1,
+      "events": [
+        {
+          "EventType": "goal",
+          "time": 60
+        },
+        {
+          "EventType": "substitution",
+          "time": 70
+        }
+      ]
+    },
+    "time": "20:00",
+    "stadium": "National Stadium"
+  }
+  
