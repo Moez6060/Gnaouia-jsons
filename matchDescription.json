@@ -59,7 +59,7 @@
         "position": "forward"
       }
     ],
-    "goals": 3,
+    "goals": 5,
     "events": [
       {
         "eventType": "goal",
@@ -75,6 +75,16 @@
         "eventType": "goal",
         "description": "Darwin scores again after a quick counter-attack",
         "time": 78
+      },
+      {
+        "eventType": "goal",
+        "description": "Faraday scores from a long-range shot",
+        "time": 82
+      },
+      {
+        "eventType": "goal",
+        "description": "Wallace scores after a brilliant dribble",
+        "time": 90
       },
       {
         "eventType": "redCard",
