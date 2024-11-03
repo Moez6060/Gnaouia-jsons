@@ -49,8 +49,8 @@
     ]
   },
   "awayTeam": {
-    "name": "Real Madrid",
-    "logoUrl": "https://i.imgur.com/WN81S6J_d.webp?maxwidth=760&fidelity=grand",
+    "name": "ESHS",
+    "logoUrl": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand",
     "players": [
       {
         "name": "Nikola Tesla",
@@ -87,6 +87,6 @@
       }
     ]
   },
-  "time": "18:30",
-  "stadium": "Historic Arena"
+  "time": "14:00",
+  "stadium": "Stade Ablaziz chtioui"
 }
