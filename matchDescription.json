@@ -1,83 +1,92 @@
 {
-    "homeTeam": {
-      "name": "Home FC",
-      "logoUrl": "https://example.com/home-logo.png",
-      "players": [
-        {
-          "name": "John Doe",
-          "number": 1,
-          "position": "goalKeep"
-        },
-        {
-          "name": "James Smith",
-          "number": 5,
-          "position": "defender"
-        },
-        {
-          "name": "Michael Brown",
-          "number": 10,
-          "position": "midfielder"
-        },
-        {
-          "name": "Chris Johnson",
-          "number": 9,
-          "position": "forward"
-        }
-      ],
-      "goals": 2,
-      "events": [
-        {
-          "EventType": "goal",
-          "time": 23
-        },
-        {
-          "EventType": "goal",
-          "time": 45
-        },
-        {
-          "EventType": "redCard",
-          "time": 75
-        }
-      ]
-    },
-    "awayTeam": {
-      "name": "Away United",
-      "logoUrl": "https://example.com/away-logo.png",
-      "players": [
-        {
-          "name": "David Taylor",
-          "number": 1,
-          "position": "goalKeep"
-        },
-        {
-          "name": "Robert Anderson",
-          "number": 3,
-          "position": "defender"
-        },
-        {
-          "name": "Daniel Thomas",
-          "number": 8,
-          "position": "midfielder"
-        },
-        {
-          "name": "Mark Lewis",
-          "number": 11,
-          "position": "forward"
-        }
-      ],
-      "goals": 1,
-      "events": [
-        {
-          "EventType": "goal",
-          "time": 60
-        },
-        {
-          "EventType": "substitution",
-          "time": 70
-        }
-      ]
-    },
-    "time": "20:00",
-    "stadium": "National Stadium"
-  }
-  
+  "homeTeam": {
+    "name": "Home Wanderers",
+    "logoUrl": "https://example.com/home-wanderers-logo.png",
+    "players": [
+      {
+        "name": "Alexander Fleming",
+        "number": 1,
+        "position": "goalKeep"
+      },
+      {
+        "name": "Henry Morgan",
+        "number": 4,
+        "position": "defender"
+      },
+      {
+        "name": "Thomas Edison",
+        "number": 8,
+        "position": "midfielder"
+      },
+      {
+        "name": "Charles Darwin",
+        "number": 11,
+        "position": "forward"
+      }
+    ],
+    "goals": 3,
+    "events": [
+      {
+        "eventType": "goal",
+        "description": "Darwin scores with a header",
+        "time": 15
+      },
+      {
+        "eventType": "goal",
+        "description": "Edison scores from a penalty",
+        "time": 39
+      },
+      {
+        "eventType": "goal",
+        "description": "Darwin scores again after a quick counter-attack",
+        "time": 78
+      },
+      {
+        "eventType": "redCard",
+        "description": "Morgan receives a second yellow card",
+        "time": 85
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Away Rovers",
+    "logoUrl": "https://example.com/away-rovers-logo.png",
+    "players": [
+      {
+        "name": "Nikola Tesla",
+        "number": 1,
+        "position": "goalKeep"
+      },
+      {
+        "name": "Albert Einstein",
+        "number": 3,
+        "position": "defender"
+      },
+      {
+        "name": "Isaac Newton",
+        "number": 6,
+        "position": "midfielder"
+      },
+      {
+        "name": "Galileo Galilei",
+        "number": 9,
+        "position": "forward"
+      }
+    ],
+    "goals": 1,
+    "events": [
+      {
+        "eventType": "goal",
+        "description": "Newton scores from a free kick",
+        "time": 50
+      },
+      {
+        "eventType": "substitution",
+        "description": "Galilei is substituted by Copernicus",
+        "time": 60
+      }
+    ]
+  },
+  "time": "18:30",
+  "stadium": "Historic Arena"
+}
