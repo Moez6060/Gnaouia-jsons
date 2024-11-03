@@ -4,57 +4,57 @@
     "logoUrl": "https://i.imgur.com/lMbZuXz.png",
     "players": [
       {
-        "name": "Alexander Fleming",
+        "name": "Fleming",
         "number": 1,
         "position": "goalKeep"
       },
       {
-        "name": "Henry Morgan",
+        "name": "Morgan",
         "number": 4,
         "position": "defender"
       },
       {
-        "name": "William Harvey",
+        "name": "Harvey",
         "number": 5,
         "position": "defender"
       },
       {
-        "name": "Louis Pasteur",
+        "name": "Pasteur",
         "number": 6,
         "position": "defender"
       },
       {
-        "name": "Gregor Mendel",
+        "name": "Mendel",
         "number": 3,
         "position": "defender"
       },
       {
-        "name": "Thomas Edison",
+        "name": "Edison",
         "number": 8,
         "position": "midfielder"
       },
       {
-        "name": "James Clerk Maxwell",
+        "name": "Maxwell",
         "number": 10,
         "position": "midfielder"
       },
       {
-        "name": "Dmitri Mendeleev",
+        "name": "Mendeleev",
         "number": 7,
         "position": "midfielder"
       },
       {
-        "name": "Charles Darwin",
+        "name": "Darwin",
         "number": 11,
         "position": "forward"
       },
       {
-        "name": "Michael Faraday",
+        "name": "Faraday",
         "number": 9,
         "position": "forward"
       },
       {
-        "name": "Alfred Wallace",
+        "name": "Wallace",
         "number": 2,
         "position": "forward"
       }
@@ -88,42 +88,42 @@
     "logoUrl": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand",
     "players": [
       {
-        "name": "Nikola Tesla",
+        "name": "Tesla",
         "number": 1,
         "position": "goalKeep"
       },
       {
-        "name": "Albert Einstein",
+        "name": "Einstein",
         "number": 3,
         "position": "defender"
       },
       {
-        "name": "Marie Curie",
+        "name": "Curie",
         "number": 4,
         "position": "defender"
       },
       {
-        "name": "Max Planck",
+        "name": "Planck",
         "number": 5,
         "position": "defender"
       },
       {
-        "name": "Niels Bohr",
+        "name": "Bohr",
         "number": 6,
         "position": "defender"
       },
       {
-        "name": "Isaac Newton",
+        "name": "Newton",
         "number": 8,
         "position": "midfielder"
       },
       {
-        "name": "Galileo Galilei",
+        "name": "Galilei",
         "number": 9,
         "position": "forward"
       },
       {
-        "name": "Leonardo da Vinci",
+        "name": "da Vinci",
         "number": 10,
         "position": "midfielder"
       },
