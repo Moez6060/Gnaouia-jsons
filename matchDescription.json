@@ -1,7 +1,7 @@
 {
   "homeTeam": {
-    "name": "Home Wanderers",
-    "logoUrl": "https://example.com/home-wanderers-logo.png",
+    "name": "AS Marsa",
+    "logoUrl": "https://i.imgur.com/WN81S6J_d.webp?maxwidth=760&fidelity=grand",
     "players": [
       {
         "name": "Alexander Fleming",
@@ -49,8 +49,8 @@
     ]
   },
   "awayTeam": {
-    "name": "Away Rovers",
-    "logoUrl": "https://example.com/away-rovers-logo.png",
+    "name": "Real Madrid",
+    "logoUrl": "https://i.imgur.com/WN81S6J_d.webp?maxwidth=760&fidelity=grand",
     "players": [
       {
         "name": "Nikola Tesla",
