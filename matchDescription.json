@@ -14,13 +14,48 @@
         "position": "defender"
       },
       {
+        "name": "William Harvey",
+        "number": 5,
+        "position": "defender"
+      },
+      {
+        "name": "Louis Pasteur",
+        "number": 6,
+        "position": "defender"
+      },
+      {
+        "name": "Gregor Mendel",
+        "number": 3,
+        "position": "defender"
+      },
+      {
         "name": "Thomas Edison",
         "number": 8,
         "position": "midfielder"
       },
       {
+        "name": "James Clerk Maxwell",
+        "number": 10,
+        "position": "midfielder"
+      },
+      {
+        "name": "Dmitri Mendeleev",
+        "number": 7,
+        "position": "midfielder"
+      },
+      {
         "name": "Charles Darwin",
         "number": 11,
+        "position": "forward"
+      },
+      {
+        "name": "Michael Faraday",
+        "number": 9,
+        "position": "forward"
+      },
+      {
+        "name": "Alfred Wallace",
+        "number": 2,
         "position": "forward"
       }
     ],
@@ -63,13 +98,48 @@
         "position": "defender"
       },
       {
-        "name": "Isaac Newton",
+        "name": "Marie Curie",
+        "number": 4,
+        "position": "defender"
+      },
+      {
+        "name": "Max Planck",
+        "number": 5,
+        "position": "defender"
+      },
+      {
+        "name": "Niels Bohr",
         "number": 6,
+        "position": "defender"
+      },
+      {
+        "name": "Isaac Newton",
+        "number": 8,
         "position": "midfielder"
       },
       {
         "name": "Galileo Galilei",
         "number": 9,
+        "position": "forward"
+      },
+      {
+        "name": "Leonardo da Vinci",
+        "number": 10,
+        "position": "midfielder"
+      },
+      {
+        "name": "Archimedes",
+        "number": 7,
+        "position": "midfielder"
+      },
+      {
+        "name": "Pythagoras",
+        "number": 11,
+        "position": "forward"
+      },
+      {
+        "name": "Euclid",
+        "number": 2,
         "position": "forward"
       }
     ],
@@ -88,5 +158,5 @@
     ]
   },
   "time": "14:00",
-  "stadium": "Stade Ablaziz chtioui"
+  "stadium": "Stade Ablaziz Chtioui"
 }
