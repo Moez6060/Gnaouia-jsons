@@ -5,8 +5,8 @@
     "players": [
       {
         "name": "Fleming",
-        "number": 1,
-        "position": "goalKeep"
+        "number": 16,
+        "position": "goalKeeper"
       },
       {
         "name": "Morgan",
@@ -90,7 +90,7 @@
       {
         "name": "Tesla",
         "number": 1,
-        "position": "goalKeep"
+        "position": "goalKeeper"
       },
       {
         "name": "Einstein",
