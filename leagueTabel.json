@@ -6,56 +6,64 @@
       "teamName": "Team A",
       "gamesPlayed": 10,
       "points": 25,
-      "isHighlighted": false
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_a_logo.png"
     },
     {
       "position": 2,
       "teamName": "Team B",
       "gamesPlayed": 10,
       "points": 22,
-      "isHighlighted": false
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_b_logo.png"
     },
     {
       "position": 3,
       "teamName": "Team C",
       "gamesPlayed": 10,
       "points": 20,
-      "isHighlighted": false
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_c_logo.png"
     },
     {
       "position": 4,
       "teamName": "Team D",
       "gamesPlayed": 10,
       "points": 18,
-      "isHighlighted": true
+      "isHighlighted": true,
+      "logoURL": "https://example.com/logos/team_d_logo.png"
     },
     {
       "position": 5,
       "teamName": "Team E",
       "gamesPlayed": 10,
       "points": 15,
-      "isHighlighted": false
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_e_logo.png"
     },
     {
       "position": 6,
       "teamName": "Team F",
       "gamesPlayed": 10,
       "points": 12,
-      "isHighlighted": false
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_f_logo.png"
     },
     {
       "position": 7,
       "teamName": "Team G",
       "gamesPlayed": 10,
       "points": 10,
-      "isHighlighted": false
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_g_logo.png"
     },
     {
       "position": 8,
       "teamName": "Team H",
       "gamesPlayed": 10,
       "points": 8,
-      "isHighlighted": false
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_h_logo.png"
     }
   ]
 }
