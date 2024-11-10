@@ -6,6 +6,7 @@
       "teamName": "CS Korba",
       "gamesPlayed": 4,
       "points": 10,
+      "difference": "+5",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/S73YSwe.png"
     },
@@ -14,6 +15,7 @@
       "teamName": "Kalaa Sport",
       "gamesPlayed": 4,
       "points": 8,
+      "difference": "+4",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/g71YZoO.png"
     },
@@ -22,6 +24,7 @@
       "teamName": "AS Marsa",
       "gamesPlayed": 4,
       "points": 8,
+      "difference": "+3",
       "isHighlighted": true,
       "logoURL": "https://i.imgur.com/lMbZuXz.png"
     },
@@ -30,6 +33,7 @@
       "teamName": "ES Hamem sousse",
       "gamesPlayed": 4,
       "points": 8,
+      "difference": "+3",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand"
     },
@@ -38,6 +42,7 @@
       "teamName": "EM Mahdia",
       "gamesPlayed": 4,
       "points": 7,
+      "difference": "+2",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/rlnCfE2.png"
     },
@@ -46,6 +51,7 @@
       "teamName": "Megrine",
       "gamesPlayed": 4,
       "points": 7,
+      "difference": "+2",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/JYOMHNm.png"
     },
@@ -54,6 +60,7 @@
       "teamName": "Jendouba Sport",
       "gamesPlayed": 4,
       "points": 7,
+      "difference": "+1",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/OkHmM3K.png"
     },
@@ -62,6 +69,7 @@
       "teamName": "CS Hammem Linf",
       "gamesPlayed": 4,
       "points": 5,
+      "difference": "-1",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/1LI0Tav.png"
     },
@@ -70,6 +78,7 @@
       "teamName": "AS Ariana",
       "gamesPlayed": 4,
       "points": 3,
+      "difference": "-2",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/tm7TbvL.png"
     },
@@ -78,6 +87,7 @@
       "teamName": "SA Manzel Bourguia",
       "gamesPlayed": 4,
       "points": 3,
+      "difference": "-2",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/r5rDHKL.png"
     },
@@ -86,6 +96,7 @@
       "teamName": "SC Moknin",
       "gamesPlayed": 4,
       "points": 2,
+      "difference": "-2",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/ArAPtCX.png"
     },
@@ -94,6 +105,7 @@
       "teamName": "AS Oued Ellil",
       "gamesPlayed": 4,
       "points": 2,
+      "difference": "-3",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/Nv1Wnja.png"
     },
@@ -102,6 +114,7 @@
       "teamName": "CS M'saken",
       "gamesPlayed": 4,
       "points": 2,
+      "difference": "-3",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/ewvcLgm.png"
     },
@@ -110,6 +123,7 @@
       "teamName": "ES Rades",
       "gamesPlayed": 4,
       "points": 1,
+      "difference": "-6",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/PeZdfPc.png"
     }
