@@ -13,25 +13,25 @@
       "position": 2,
       "teamName": "Kalaa Sport",
       "gamesPlayed": 4,
-      "points": 10,
+      "points": 8,
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/g71YZoO.png"
     },
     {
       "position": 3,
-      "teamName": "ES Hamem sousse",
-      "gamesPlayed": 4,
-      "points": 20,
-      "isHighlighted": false,
-      "logoURL": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand"
-    },
-    {
-      "position": 4,
       "teamName": "AS Marsa",
       "gamesPlayed": 4,
       "points": 8,
       "isHighlighted": true,
       "logoURL": "https://i.imgur.com/lMbZuXz.png"
+    },
+    {
+      "position": 3,
+      "teamName": "ES Hamem sousse",
+      "gamesPlayed": 4,
+      "points": 8,
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand"
     },
     {
       "position": 5,
