@@ -12,7 +12,7 @@
     {
       "position": 2,
       "teamName": "Kalaa Sport",
-      "gamesPlayed": 8,
+      "gamesPlayed": 4,
       "points": 10,
       "isHighlighted": false,
       "logoURL": "https://example.com/logos/team_b_logo.png"
@@ -20,7 +20,7 @@
     {
       "position": 3,
       "teamName": "ES Hamem sousse",
-      "gamesPlayed": 10,
+      "gamesPlayed": 4,
       "points": 20,
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand"
@@ -35,31 +35,79 @@
     },
     {
       "position": 5,
-      "teamName": "Team E",
-      "gamesPlayed": 10,
-      "points": 15,
+      "teamName": "EM Mahdia",
+      "gamesPlayed": 4,
+      "points": 7,
       "isHighlighted": false,
       "logoURL": "https://example.com/logos/team_e_logo.png"
     },
     {
       "position": 6,
-      "teamName": "Team F",
-      "gamesPlayed": 10,
-      "points": 12,
+      "teamName": "Megrine",
+      "gamesPlayed": 4,
+      "points": 7,
       "isHighlighted": false,
       "logoURL": "https://example.com/logos/team_f_logo.png"
     },
     {
       "position": 7,
-      "teamName": "Team G",
-      "gamesPlayed": 10,
-      "points": 10,
+      "teamName": "CS Hammem Linf",
+      "gamesPlayed": 4,
+      "points": 5,
       "isHighlighted": false,
       "logoURL": "https://example.com/logos/team_g_logo.png"
     },
     {
       "position": 8,
+      "teamName": "Jendouba Sport",
+      "gamesPlayed": 3,
+      "points": 4,
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_h_logo.png"
+    },
+    {
+      "position": 9,
       "teamName": "Team H",
+      "gamesPlayed": 10,
+      "points": 8,
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_h_logo.png"
+    },
+    {
+      "position": 10,
+      "teamName": "AS Ariana",
+      "gamesPlayed": 4,
+      "points": 3,
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/tm7TbvL.png"
+    },
+    {
+      "position": 11,
+      "teamName": "Team H",
+      "gamesPlayed": 10,
+      "points": 8,
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_h_logo.png"
+    },
+    {
+      "position": 12,
+      "teamName": "Team H",
+      "gamesPlayed": 10,
+      "points": 8,
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_h_logo.png"
+    },
+    {
+      "position": 13,
+      "teamName": "Team H",
+      "gamesPlayed": 10,
+      "points": 8,
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_h_logo.png"
+    },
+    {
+      "position": 14,
+      "teamName": "ES Rades",
       "gamesPlayed": 10,
       "points": 8,
       "isHighlighted": false,
