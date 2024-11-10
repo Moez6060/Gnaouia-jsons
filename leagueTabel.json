@@ -67,14 +67,6 @@
     },
     {
       "position": 9,
-      "teamName": "Team H",
-      "gamesPlayed": 10,
-      "points": 8,
-      "isHighlighted": false,
-      "logoURL": "https://example.com/logos/team_h_logo.png"
-    },
-    {
-      "position": 10,
       "teamName": "AS Ariana",
       "gamesPlayed": 4,
       "points": 3,
@@ -82,34 +74,42 @@
       "logoURL": "https://i.imgur.com/tm7TbvL.png"
     },
     {
+      "position": 10,
+      "teamName": "SA Manzel Bourguia",
+      "gamesPlayed": 4,
+      "points": 3,
+      "isHighlighted": false,
+      "logoURL": "https://example.com/logos/team_h_logo.png"
+    },
+    {
       "position": 11,
-      "teamName": "Team H",
-      "gamesPlayed": 10,
-      "points": 8,
+      "teamName": "SC Moknin",
+      "gamesPlayed": 4,
+      "points": 2,
       "isHighlighted": false,
       "logoURL": "https://example.com/logos/team_h_logo.png"
     },
     {
       "position": 12,
-      "teamName": "Team H",
-      "gamesPlayed": 10,
-      "points": 8,
+      "teamName": "AS Oued Ellil",
+      "gamesPlayed": 4,
+      "points": 2,
       "isHighlighted": false,
       "logoURL": "https://example.com/logos/team_h_logo.png"
     },
     {
       "position": 13,
-      "teamName": "Team H",
-      "gamesPlayed": 10,
-      "points": 8,
+      "teamName": "CS M'saken",
+      "gamesPlayed": 4,
+      "points": 2,
       "isHighlighted": false,
       "logoURL": "https://example.com/logos/team_h_logo.png"
     },
     {
       "position": 14,
       "teamName": "ES Rades",
-      "gamesPlayed": 10,
-      "points": 8,
+      "gamesPlayed": 3,
+      "points": 1,
       "isHighlighted": false,
       "logoURL": "https://example.com/logos/team_h_logo.png"
     }
