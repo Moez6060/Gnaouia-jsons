@@ -7,7 +7,7 @@
       "gamesPlayed": 4,
       "points": 10,
       "isHighlighted": false,
-      "logoURL": "https://example.com/logos/team_a_logo.png"
+      "logoURL": "https://i.imgur.com/S73YSwe.png"
     },
     {
       "position": 2,
@@ -39,7 +39,7 @@
       "gamesPlayed": 4,
       "points": 7,
       "isHighlighted": false,
-      "logoURL": "https://example.com/logos/team_e_logo.png"
+      "logoURL": "https://i.imgur.com/rlnCfE2.png"
     },
     {
       "position": 6,
@@ -51,19 +51,19 @@
     },
     {
       "position": 7,
+      "teamName": "Jendouba Sport",
+      "gamesPlayed": 4,
+      "points": 7,
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/OkHmM3K.png"
+    },
+    {
+      "position": 8,
       "teamName": "CS Hammem Linf",
       "gamesPlayed": 4,
       "points": 5,
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/1LI0Tav.png"
-    },
-    {
-      "position": 8,
-      "teamName": "Jendouba Sport",
-      "gamesPlayed": 3,
-      "points": 4,
-      "isHighlighted": false,
-      "logoURL": "https://example.com/logos/team_h_logo.png"
     },
     {
       "position": 9,
@@ -79,7 +79,7 @@
       "gamesPlayed": 4,
       "points": 3,
       "isHighlighted": false,
-      "logoURL": "https://example.com/logos/team_h_logo.png"
+      "logoURL": "https://i.imgur.com/r5rDHKL.png"
     },
     {
       "position": 11,
@@ -87,7 +87,7 @@
       "gamesPlayed": 4,
       "points": 2,
       "isHighlighted": false,
-      "logoURL": "https://example.com/logos/team_h_logo.png"
+      "logoURL": "https://i.imgur.com/ArAPtCX.png"
     },
     {
       "position": 12,
@@ -95,7 +95,7 @@
       "gamesPlayed": 4,
       "points": 2,
       "isHighlighted": false,
-      "logoURL": "https://example.com/logos/team_h_logo.png"
+      "logoURL": "https://i.imgur.com/Nv1Wnja.png"
     },
     {
       "position": 13,
@@ -103,15 +103,15 @@
       "gamesPlayed": 4,
       "points": 2,
       "isHighlighted": false,
-      "logoURL": "https://example.com/logos/team_h_logo.png"
+      "logoURL": "https://i.imgur.com/ewvcLgm.png"
     },
     {
       "position": 14,
       "teamName": "ES Rades",
-      "gamesPlayed": 3,
+      "gamesPlayed": 4,
       "points": 1,
       "isHighlighted": false,
-      "logoURL": "https://example.com/logos/team_h_logo.png"
+      "logoURL": "https://i.imgur.com/PeZdfPc.png"
     }
   ]
 }
