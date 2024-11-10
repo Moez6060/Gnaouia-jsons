@@ -1,37 +1,37 @@
 {
-  "leagueName": "Premier League",
+  "leagueName": "Ligue 2",
   "championshipTable": [
     {
       "position": 1,
-      "teamName": "Team A",
-      "gamesPlayed": 10,
-      "points": 25,
+      "teamName": "CS Korba",
+      "gamesPlayed": 4,
+      "points": 10,
       "isHighlighted": false,
       "logoURL": "https://example.com/logos/team_a_logo.png"
     },
     {
       "position": 2,
-      "teamName": "Team B",
-      "gamesPlayed": 10,
-      "points": 22,
+      "teamName": "Kalaa Sport",
+      "gamesPlayed": 8,
+      "points": 10,
       "isHighlighted": false,
       "logoURL": "https://example.com/logos/team_b_logo.png"
     },
     {
       "position": 3,
-      "teamName": "Team C",
+      "teamName": "ES Hamem sousse",
       "gamesPlayed": 10,
       "points": 20,
       "isHighlighted": false,
-      "logoURL": "https://example.com/logos/team_c_logo.png"
+      "logoURL": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand"
     },
     {
       "position": 4,
-      "teamName": "Team D",
-      "gamesPlayed": 10,
-      "points": 18,
+      "teamName": "AS Marsa",
+      "gamesPlayed": 4,
+      "points": 8,
       "isHighlighted": true,
-      "logoURL": "https://example.com/logos/team_d_logo.png"
+      "logoURL": "https://i.imgur.com/lMbZuXz.png"
     },
     {
       "position": 5,
