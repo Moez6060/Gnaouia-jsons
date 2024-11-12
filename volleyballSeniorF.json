@@ -1,0 +1,51 @@
+{
+  "leagueName": "Ligue 1F",
+  "championshipTable": [
+    {
+      "position": 1,
+      "teamName": "CF Carthage",
+      "gamesPlayed": 3,
+      "points": 9,
+      "difference": "+9",
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/S73YSwe.png"
+    },
+    {
+      "position": 2,
+      "teamName": "AS Marsa",
+      "gamesPlayed": 3,
+      "points": 6,
+      "difference": "+1",
+      "isHighlighted": true,
+      "logoURL": "https://i.imgur.com/lMbZuXz.png"
+    },
+    {
+      "position": 3,
+      "teamName": "Club Africain",
+      "gamesPlayed": 2,
+      "points": 3,
+      "difference": "+1",
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand"
+    },
+    {
+      "position": 4,
+      "teamName": "USF Monastir",
+      "gamesPlayed": 2,
+      "points": 0,
+      "difference": "-5",
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/rlnCfE2.png"
+    },
+    
+    {
+      "position": 5,
+      "teamName": "ASHCH",
+      "gamesPlayed": 2,
+      "points": 0,
+      "difference": "-6",
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/PeZdfPc.png"
+    }
+  ]
+}
