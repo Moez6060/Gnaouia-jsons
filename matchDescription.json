@@ -4,57 +4,57 @@
     "logoUrl": "https://i.imgur.com/lMbZuXz.png",
     "players": [
       {
-        "name": "Fleming",
-        "number": 16,
+        "name": "Ben Youssef",
+        "number": 1,
         "position": "goalKeeper"
       },
       {
-        "name": "Morgan",
+        "name": "Hammemi",
+        "number": 17,
+        "position": "defender"
+      },
+      {
+        "name": "Werzli",
         "number": 4,
         "position": "defender"
       },
       {
-        "name": "Harvey",
-        "number": 5,
+        "name": "Chortani",
+        "number": 23,
         "position": "defender"
       },
       {
-        "name": "Pasteur",
+        "name": "Karoui",
         "number": 6,
         "position": "defender"
       },
       {
-        "name": "Mendel",
-        "number": 3,
-        "position": "defender"
-      },
-      {
-        "name": "Edison",
+        "name": "Gasmi",
         "number": 8,
         "position": "midfielder"
       },
       {
-        "name": "Maxwell",
-        "number": 10,
+        "name": "Khaloui",
+        "number": 13,
         "position": "midfielder"
       },
       {
-        "name": "Mendeleev",
-        "number": 7,
+        "name": "Tritter",
+        "number": 5,
         "position": "midfielder"
       },
       {
-        "name": "Darwin",
-        "number": 11,
+        "name": "Ben Hmida",
+        "number": 28,
         "position": "forward"
       },
       {
-        "name": "Faraday",
+        "name": "Mejri",
         "number": 9,
         "position": "forward"
       },
       {
-        "name": "Wallace",
+        "name": "Jertilla",
         "number": 21,
         "position": "forward"
       }
