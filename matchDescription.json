@@ -2,6 +2,8 @@
   "homeTeam": {
     "name": "AS Marsa",
     "logoUrl": "https://i.imgur.com/lMbZuXz.png",
+    "primaryColor": "green",
+    "secondaryColor": "yellow",
     "players": [
       {
         "name": "Ben Youssef",
@@ -96,6 +98,8 @@
   "awayTeam": {
     "name": "ESHS",
     "logoUrl": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand",
+    "primaryColor": "black",
+    "secondaryColor": "yellow",
     "players": [
       {
         "name": "Tesla",
