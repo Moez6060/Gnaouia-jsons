@@ -4,6 +4,7 @@
     "logoUrl": "https://i.imgur.com/lMbZuXz.png",
     "primaryColor": "green",
     "secondaryColor": "yellow",
+    "tertiaryColor": "blue",
     "players": [
       {
         "name": "Ben Youssef",
@@ -100,6 +101,7 @@
     "logoUrl": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand",
     "primaryColor": "black",
     "secondaryColor": "yellow",
+    "tertiaryColor": "white",
     "players": [
       {
         "name": "Tesla",
