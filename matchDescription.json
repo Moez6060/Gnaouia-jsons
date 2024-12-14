@@ -5,7 +5,7 @@
     "primaryColor": "green",
     "secondaryColor": "yellow",
     "tertiaryColor": "white",
-    "Coach": "Gérard Busher",
+    "coach": "Gérard Busher",
     "players": [
       {
         "name": "Ben Youssef",
@@ -103,7 +103,7 @@
     "primaryColor": "black",
     "secondaryColor": "yellow",
     "tertiaryColor": "white",
-    "Coach": "Ibn Kholoun",
+    "coach": "Ibn Kholoun",
     "players": [
       {
         "name": "Tesla",
