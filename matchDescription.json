@@ -10,57 +10,110 @@
       {
         "name": "Ben Youssef",
         "number": 1,
-        "position": "goalKeeper"
+        "position": "goalKeeper",
+        "onActiveRoster": true
       },
       {
         "name": "Hammemi",
         "number": 17,
-        "position": "defender"
+        "position": "defender",
+        "onActiveRoster": true
       },
       {
         "name": "Werzli",
         "number": 4,
-        "position": "defender"
+        "position": "defender",
+        "onActiveRoster": true
       },
       {
         "name": "Chortani",
         "number": 23,
-        "position": "defender"
+        "position": "defender",
+        "onActiveRoster": true
       },
       {
         "name": "Karoui",
         "number": 6,
-        "position": "defender"
+        "position": "defender",
+        "onActiveRoster": true
       },
       {
         "name": "Gasmi",
         "number": 8,
-        "position": "midfielder"
+        "position": "midfielder",
+        "onActiveRoster": true
       },
       {
         "name": "Khaloui",
         "number": 13,
-        "position": "midfielder"
+        "position": "midfielder",
+        "onActiveRoster": true
       },
       {
         "name": "Tritter",
         "number": 5,
-        "position": "midfielder"
+        "position": "midfielder",
+        "onActiveRoster": true
       },
       {
         "name": "Ben Hmida",
         "number": 28,
-        "position": "forward"
+        "position": "forward",
+        "onActiveRoster": true
       },
       {
         "name": "Mejri",
         "number": 9,
-        "position": "forward"
+        "position": "forward",
+        "onActiveRoster": true
       },
       {
         "name": "Jertilla",
         "number": 21,
-        "position": "forward"
+        "position": "forward",
+        "onActiveRoster": true
+      },
+      {
+        "name": "Player A",
+        "number": 30,
+        "position": "goalKeeper",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player B",
+        "number": 31,
+        "position": "defender",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player C",
+        "number": 32,
+        "position": "midfielder",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player D",
+        "number": 33,
+        "position": "forward",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player E",
+        "number": 34,
+        "position": "defender",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player F",
+        "number": 35,
+        "position": "midfielder",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player G",
+        "number": 36,
+        "position": "forward",
+        "onActiveRoster": false
       }
     ],
     "goals": 5,
@@ -108,57 +161,110 @@
       {
         "name": "Tesla",
         "number": 1,
-        "position": "goalKeeper"
+        "position": "goalKeeper",
+        "onActiveRoster": true
       },
       {
         "name": "Einstein",
         "number": 3,
-        "position": "defender"
+        "position": "defender",
+        "onActiveRoster": true
       },
       {
         "name": "Curie",
         "number": 4,
-        "position": "defender"
+        "position": "defender",
+        "onActiveRoster": true
       },
       {
         "name": "Planck",
         "number": 5,
-        "position": "defender"
+        "position": "defender",
+        "onActiveRoster": true
       },
       {
         "name": "Bohr",
         "number": 6,
-        "position": "defender"
+        "position": "defender",
+        "onActiveRoster": true
       },
       {
         "name": "Newton",
         "number": 8,
-        "position": "midfielder"
+        "position": "midfielder",
+        "onActiveRoster": true
       },
       {
         "name": "Galilei",
         "number": 9,
-        "position": "forward"
+        "position": "forward",
+        "onActiveRoster": true
       },
       {
         "name": "da Vinci",
         "number": 10,
-        "position": "midfielder"
+        "position": "midfielder",
+        "onActiveRoster": true
       },
       {
         "name": "Archimedes",
         "number": 7,
-        "position": "midfielder"
+        "position": "midfielder",
+        "onActiveRoster": true
       },
       {
         "name": "Pythagoras",
         "number": 11,
-        "position": "forward"
+        "position": "forward",
+        "onActiveRoster": true
       },
       {
         "name": "Euclid",
         "number": 2,
-        "position": "forward"
+        "position": "forward",
+        "onActiveRoster": true
+      },
+      {
+        "name": "Player H",
+        "number": 20,
+        "position": "goalKeeper",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player I",
+        "number": 21,
+        "position": "defender",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player J",
+        "number": 22,
+        "position": "midfielder",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player K",
+        "number": 23,
+        "position": "forward",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player L",
+        "number": 24,
+        "position": "defender",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player M",
+        "number": 25,
+        "position": "midfielder",
+        "onActiveRoster": false
+      },
+      {
+        "name": "Player N",
+        "number": 26,
+        "position": "forward",
+        "onActiveRoster": false
       }
     ],
     "goals": 1,
