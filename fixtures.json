@@ -1,69 +1,71 @@
 {
-  "fixtures": [
-    {
-      "homeTeam": "AS Marsa",
-      "awayTeam": "ES Rades",
-      "logos": {
-        "team_logo": "https://i.imgur.com/lMbZuXz.png",
-        "opponent_logo": "https://i.imgur.com/PeZdfPc.png"
+  "fixtures" : [
+{
+  "homeTeam": {
+    "name": "AS Marsa",
+    "logoUrl": "https://i.imgur.com/lMbZuXz.png",
+    "goals": 5,
+    "events": [
+      {
+        "eventType": "goal",
+        "description": "Darwin scores with a header",
+        "time": 15
       },
-      "match_details": {
-        "time": "2024-06-20T18:00:00",
-        "place": "Stade Abdelaziz Chtioui, Marsa"
+      {
+        "eventType": "goal",
+        "description": "Edison scores from a penalty",
+        "time": 39
       },
-      "sports_section": "Football",
-      "category": "Senior",
-      "league": "Ligue 2",
-      "journee": 10
-    },
-    {
-      "awayTeam": "AS Marsa",
-      "homeTeam": "CS Hammem Linf",
-      "logos": {
-        "team_logo": "https://i.imgur.com/lMbZuXz.png",
-        "opponent_logo": "https://i.imgur.com/1LI0Tav.png"
+      {
+        "eventType": "goal",
+        "description": "Darwin scores again after a quick counter-attack",
+        "time": 78
       },
-      "match_details": {
-        "time": "2024-06-22T15:00:00",
-        "place": "Salle Omnisport de Hammem Linf"
+      {
+        "eventType": "goal",
+        "description": "Faraday scores from a long-range shot",
+        "time": 82
       },
-      "sports_section": "Volleyball",
-      "category": "Junior",
-      "league": "Championnat Volleyball",
-      "journee": 5
-    },
-    {
-      "homeTeam": "AS Marsa",
-      "Away": "CA",
-      "logos": {
-        "team_logo": "https://i.imgur.com/lMbZuXz.png",
-        "opponent_logo": "https://i.imgur.com/2wsOVZJ.png"
+      {
+        "eventType": "goal",
+        "description": "Wallace scores after a brilliant dribble",
+        "time": 90
       },
-      "match_details": {
-        "time": "2024-06-25T20:00:00",
-        "place": "Salle Raja Hayder"
+      {
+        "eventType": "redCard",
+        "description": "Morgan receives a second yellow card",
+        "time": 85
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "ESHS",
+    "logoUrl": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand",
+    "goals": 1,
+    "events": [
+      {
+        "eventType": "goal",
+        "description": "Newton scores from a free kick",
+        "time": 50
       },
-      "sports_section": "Basketball",
-      "category": "Senior",
-      "league": "Coupe Basketball",
-      "journee": 8
-    },
-    {
-      "awayTeam": "AS Marsa",
-      "homeTeam": "CA Bizerte",
-      "gameSide": "home",
-      "logos": {
-        "team_logo": "https://i.imgur.com/lMbZuXz.png",
-        "opponent_logo": "https://i.imgur.com/eY6aILz.png"
-      },
-      "match_details": {
-        "time": "2024-06-28T16:30:00",
-        "place": "Stade 15 Octobre, Bizerte"
-      },
-      "sports_section": "Football",
-      "category": "Junior",
-      "league": "Ligue Junior",
-      "journee": 12
-    }
+      {
+        "eventType": "substitution",
+        "description": "Galilei is substituted by Copernicus",
+        "time": 60
+      }
+    ]
+  },
+  "section": "Football",
+  "category": "Senior",
+  "league": "Ligue 2",
+  "journee": 10,
+  "date": "15-12-2024",
+  "time": "14:00",
+  "stadium": "Stade Ablaziz Chtioui"
+}
   ]
 }
+
+
+
+  
