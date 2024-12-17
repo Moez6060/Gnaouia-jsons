@@ -1,0 +1,72 @@
+{
+  "fixtures": [
+    {
+      "team": "AS Marsa",
+      "opponent": "ES Rades",
+      "gameSide": "home",
+      "logos": {
+        "team_logo": "https://i.imgur.com/lMbZuXz.png",
+        "opponent_logo": "https://i.imgur.com/PeZdfPc.png"
+      },
+      "match_details": {
+        "time": "2024-06-20T18:00:00",
+        "place": "Stade Abdelaziz Chtioui, Marsa"
+      },
+      "sports_section": "Football",
+      "category": "Senior",
+      "league": "Ligue 2",
+      "journee": 10
+    },
+    {
+      "team": "AS Marsa",
+      "opponent": "CS Hammem Linf",
+      "gameSide": "Away",
+      "logos": {
+        "team_logo": "https://i.imgur.com/lMbZuXz.png",
+        "opponent_logo": "https://i.imgur.com/1LI0Tav.png"
+      },
+      "match_details": {
+        "time": "2024-06-22T15:00:00",
+        "place": "Salle Omnisport de Hammem Linf"
+      },
+      "sports_section": "Volleyball",
+      "category": "Junior",
+      "league": "Championnat Volleyball",
+      "journee": 5
+    },
+    {
+      "team": "AS Marsa",
+      "opponent": "CA",
+      "gameSide": "Away",
+      "logos": {
+        "team_logo": "https://i.imgur.com/lMbZuXz.png",
+        "opponent_logo": "https://i.imgur.com/2wsOVZJ.png"
+      },
+      "match_details": {
+        "time": "2024-06-25T20:00:00",
+        "place": "Salle Gorgeni"
+      },
+      "sports_section": "Basketball",
+      "category": "Senior",
+      "league": "Coupe Basketball",
+      "journee": 8
+    },
+    {
+      "team": "AS Marsa",
+      "opponent": "CA Bizerte",
+      "gameSide": "home",
+      "logos": {
+        "team_logo": "https://i.imgur.com/lMbZuXz.png",
+        "opponent_logo": "https://i.imgur.com/eY6aILz.png"
+      },
+      "match_details": {
+        "time": "2024-06-28T16:30:00",
+        "place": "Stade 15 Octobre, Bizerte"
+      },
+      "sports_section": "Football",
+      "category": "Junior",
+      "league": "Ligue Junior",
+      "journee": 12
+    }
+  ]
+}
