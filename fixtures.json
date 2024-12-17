@@ -1,9 +1,8 @@
 {
   "fixtures": [
     {
-      "team": "AS Marsa",
-      "opponent": "ES Rades",
-      "gameSide": "home",
+      "homeTeam": "AS Marsa",
+      "awayTeam": "ES Rades",
       "logos": {
         "team_logo": "https://i.imgur.com/lMbZuXz.png",
         "opponent_logo": "https://i.imgur.com/PeZdfPc.png"
@@ -18,9 +17,8 @@
       "journee": 10
     },
     {
-      "team": "AS Marsa",
-      "opponent": "CS Hammem Linf",
-      "gameSide": "Away",
+      "awayTeam": "AS Marsa",
+      "homeTeam": "CS Hammem Linf",
       "logos": {
         "team_logo": "https://i.imgur.com/lMbZuXz.png",
         "opponent_logo": "https://i.imgur.com/1LI0Tav.png"
@@ -35,16 +33,15 @@
       "journee": 5
     },
     {
-      "team": "AS Marsa",
-      "opponent": "CA",
-      "gameSide": "Away",
+      "homeTeam": "AS Marsa",
+      "Away": "CA",
       "logos": {
         "team_logo": "https://i.imgur.com/lMbZuXz.png",
         "opponent_logo": "https://i.imgur.com/2wsOVZJ.png"
       },
       "match_details": {
         "time": "2024-06-25T20:00:00",
-        "place": "Salle Gorgeni"
+        "place": "Salle Raja Hayder"
       },
       "sports_section": "Basketball",
       "category": "Senior",
@@ -52,8 +49,8 @@
       "journee": 8
     },
     {
-      "team": "AS Marsa",
-      "opponent": "CA Bizerte",
+      "awayTeam": "AS Marsa",
+      "homeTeam": "CA Bizerte",
       "gameSide": "home",
       "logos": {
         "team_logo": "https://i.imgur.com/lMbZuXz.png",
