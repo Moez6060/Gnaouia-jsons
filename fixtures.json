@@ -1,5 +1,4 @@
-{
-  "fixtures" : [
+[
 {
   "homeTeam": {
     "name": "AS Marsa",
@@ -143,8 +142,7 @@
   "time": "14:00",
   "stadium": "Stade Ablaziz Chtioui"
 }
-  ]
-}
+]
 
 
 
