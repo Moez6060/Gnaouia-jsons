@@ -1,25 +1,25 @@
 [
   {
     "name": "ASM Home Jersey 23-24",
-    "price": "69.99 DT",
+    "price": 69.99,
     "image": "https://www.hummel.tn/147944-large_default/home-jersey-asm-23-24-officiel-1.jpg",
     "link": "https://www.hummel.tn/asm/8324-114777-home-jersey-asm-23-24-officiel-1.html#/676-taille-xs/743-couleur-6595"
   },
   {
     "name": "ASM Away Jersey 23-24",
-    "price": "69.99 DT",
+    "price": 69.99,
     "image": "https://www.hummel.tn/147942-large_default/away-jersey-asm-23-24-officiel-1.jpg",
     "link": "https://www.hummel.tn/asm/8332-114768-away-jersey-asm-23-24-officiel-1.html#/676-taille-xs/809-couleur-2007"
   },
   {
     "name": "ASM Training Jersey 23-24",
-    "price": "34,95 DT",
+    "price": 34.95,
     "image": "https://www.hummel.tn/147930-large_default/maillot-echauffement-asm-23-24.jpg",
     "link": "https://www.hummel.tn/asm/8681-114705-maillot-echauffement-asm-23-24.html#/676-taille-xs/1779-couleur-7667"
   },
   {
     "name": "POLO ASM",
-    "price": "48,92 DT",
+    "price": 48,92,
     "image": "https://www.hummel.tn/147970-large_default/hmlsimple-polo.jpg",
     "link": "https://www.hummel.tn/asm/8243-109136-hmlsimple-polo.html#/673-taille-s/758-couleur-7026"
   }
