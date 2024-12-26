@@ -3,23 +3,27 @@
       "title": "The Wonders of Nature",
       "text": "Explore the beauty and diversity of the natural world in this fascinating article.",
       "image": "https://i.imgur.com/pBM1yvq.jpeg",
+      "topic": "General",
       "url": "https://example.com/articles/nature"
     },
     {
       "title": "Technological Advances in 2024",
       "text": "A deep dive into the groundbreaking technologies shaping our future.",
       "image": "https://example.com/images/technology.jpg",
+      "topic": "Football",
       "url": "https://i.imgur.com/rwsBI6U.jpeg"
     },
     {
       "title": "Healthy Eating Habits",
       "text": "Tips and tricks to maintain a balanced diet and live a healthier lifestyle.",
+        "topic": "Football",
       "image": "https://i.imgur.com/a3QGGKn.jpeg"
     },
     {
       "title": "Travel Destinations for Adventurers",
       "text": "Discover the top travel spots for thrill-seekers and explorers.",
       "image": "https://i.imgur.com/8XUMhOb.jpeg",
+      "topic": "General",
       "url": "https://example.com/articles/travel-adventures"
     }
   ]
