@@ -1,149 +1,101 @@
 [
-{
-  "homeTeam": {
-    "name": "AS Marsa",
-    "logoUrl": "https://i.imgur.com/lMbZuXz.png",
-    "goals": 5,
-    "events": [
-      {
-        "eventType": "goal",
-        "description": "Darwin scores with a header",
-        "time": 15
-      },
-      {
-        "eventType": "goal",
-        "description": "Edison scores from a penalty",
-        "time": 39
-      },
-      {
-        "eventType": "goal",
-        "description": "Darwin scores again after a quick counter-attack",
-        "time": 78
-      },
-      {
-        "eventType": "goal",
-        "description": "Faraday scores from a long-range shot",
-        "time": 82
-      },
-      {
-        "eventType": "goal",
-        "description": "Wallace scores after a brilliant dribble",
-        "time": 90
-      },
-      {
-        "eventType": "redCard",
-        "description": "Morgan receives a second yellow card",
-        "time": 85
-      }
-    ]
+  {
+    "homeTeam": {
+      "name": "AS Marsa",
+      "logoUrl": "https://i.imgur.com/lMbZuXz.png",
+      "goals": 5,
+      "events": [
+        {
+          "eventType": "goal",
+          "description": "Darwin scores with a header",
+          "time": 15
+        },
+        {
+          "eventType": "goal",
+          "description": "Edison scores from a penalty",
+          "time": 39
+        },
+        {
+          "eventType": "goal",
+          "description": "Darwin scores again after a quick counter-attack",
+          "time": 78
+        },
+        {
+          "eventType": "goal",
+          "description": "Faraday scores from a long-range shot",
+          "time": 82
+        },
+        {
+          "eventType": "goal",
+          "description": "Wallace scores after a brilliant dribble",
+          "time": 90
+        },
+        {
+          "eventType": "redCard",
+          "description": "Morgan receives a second yellow card",
+          "time": 85
+        }
+      ]
+    },
+    "awayTeam": {
+      "name": "ESHS",
+      "logoUrl": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand",
+      "goals": 1,
+      "events": [
+        {
+          "eventType": "goal",
+          "description": "Newton scores from a free kick",
+          "time": 50
+        },
+        {
+          "eventType": "substitution",
+          "description": "Galilei is substituted by Copernicus",
+          "time": 60
+        }
+      ]
+    },
+    "section": "Football",
+    "category": "Senior",
+    "league": "Ligue 2",
+    "journee": 9,
+    "date": "15-12-2024",
+    "time": "14:00",
+    "stadium": "Stade Ablaziz Chtioui"
   },
-  "awayTeam": {
-    "name": "ESHS",
-    "logoUrl": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand",
-    "goals": 1,
-    "events": [
-      {
-        "eventType": "goal",
-        "description": "Newton scores from a free kick",
-        "time": 50
-      },
-      {
-        "eventType": "substitution",
-        "description": "Galilei is substituted by Copernicus",
-        "time": 60
-      }
-    ]
+  {
+    "awayTeam": {
+      "name": "AS Marsa",
+      "logoUrl": "https://i.imgur.com/lMbZuXz.png"
+    },
+    "homeTeam": {
+      "name": "ES Rades",
+      "logoUrl": "https://i.imgur.com/PeZdfPc.png"
+    },
+    "section": "Football",
+    "category": "Senior",
+    "league": "Ligue 2",
+    "journee": 10,
+    "date": "22-12-2024",
+    "time": "14:00",
+    "stadium": "Stade Municipal Rades"
   },
-  "section": "Football",
-  "category": "Senior",
-  "league": "Ligue 2",
-  "journee": 9,
-  "date": "15-12-2024",
-  "time": "14:00",
-  "stadium": "Stade Ablaziz Chtioui"
-},
-    {
-  "awayTeam": {
-    "name": "AS Marsa",
-    "logoUrl": "https://i.imgur.com/lMbZuXz.png"
-  },
-  "homeTeam": {
-    "name": "ES Rades",
-    "logoUrl": "https://i.imgur.com/PeZdfPc.png"
-  },
-  "section": "Football",
-  "category": "Senior",
-  "league": "Ligue 2",
-  "journee": 10,
-  "date": "22-12-2024",
-  "time": "14:00",
-  "stadium": "Stade Municipal Rades"
-},
-    {
-  "homeTeam": {
-    "name": "AS Marsa",
-    "logoUrl": "https://i.imgur.com/lMbZuXz.png",
-    "goals": 5,
-    "events": [
-      {
-        "eventType": "goal",
-        "description": "Darwin scores with a header",
-        "time": 15
-      },
-      {
-        "eventType": "goal",
-        "description": "Edison scores from a penalty",
-        "time": 39
-      },
-      {
-        "eventType": "goal",
-        "description": "Darwin scores again after a quick counter-attack",
-        "time": 78
-      },
-      {
-        "eventType": "goal",
-        "description": "Faraday scores from a long-range shot",
-        "time": 82
-      },
-      {
-        "eventType": "goal",
-        "description": "Wallace scores after a brilliant dribble",
-        "time": 90
-      },
-      {
-        "eventType": "redCard",
-        "description": "Morgan receives a second yellow card",
-        "time": 85
-      }
-    ]
-  },
-  "awayTeam": {
-    "name": "ESHS",
-    "logoUrl": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand",
-    "goals": 1,
-    "events": [
-      {
-        "eventType": "goal",
-        "description": "Newton scores from a free kick",
-        "time": 50
-      },
-      {
-        "eventType": "substitution",
-        "description": "Galilei is substituted by Copernicus",
-        "time": 60
-      }
-    ]
-  },
-  "section": "Football",
-  "category": "Senior",
-  "league": "Ligue 2",
-  "journee": 10,
-  "date": "15-12-2024",
-  "time": "14:00",
-  "stadium": "Stade Ablaziz Chtioui"
-}
+  {
+    "homeTeam": {
+      "name": "AS Marsa",
+      "logoUrl": "https://i.imgur.com/lMbZuXz.png",
+      "goals": 0
+    },
+    "awayTeam": {
+      "name": "Sfax Railways",
+      "logoUrl": "https://i.imgur.com/iHLZ8dQ.png",
+      "goals": 0
+    },
+    "section": "Football",
+    "category": "Senior",
+    "league": "Ligue 2",
+    "journee": 11,
+    "date": "29-12-2024",
+    "time": "14:00",
+    "stadium": "Stade Ablaziz Chtioui"
+  }
 ]
-
-
-
-  
