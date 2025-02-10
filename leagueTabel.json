@@ -3,127 +3,127 @@
   "championshipTable": [
     {
       "position": 1,
-      "teamName": "CS Korba",
-      "gamesPlayed": 4,
-      "points": 10,
-      "difference": "+5",
-      "isHighlighted": false,
-      "logoURL": "https://i.imgur.com/S73YSwe.png"
-    },
-    {
-      "position": 2,
-      "teamName": "Kalaa Sport",
-      "gamesPlayed": 4,
-      "points": 8,
-      "difference": "+4",
-      "isHighlighted": false,
-      "logoURL": "https://i.imgur.com/g71YZoO.png"
-    },
-    {
-      "position": 3,
       "teamName": "AS Marsa",
-      "gamesPlayed": 4,
-      "points": 8,
-      "difference": "+3",
+      "gamesPlayed": 14,
+      "points": 28,
+      "difference": "+13",
       "isHighlighted": true,
       "logoURL": "https://i.imgur.com/lMbZuXz.png"
     },
     {
+      "position": 2,
+      "teamName": "CS Korba",
+      "gamesPlayed": 14,
+      "points": 27,
+      "difference": "+8",
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/S73YSwe.png"
+    },
+    {
       "position": 3,
-      "teamName": "ES Hamem sousse",
-      "gamesPlayed": 4,
-      "points": 8,
-      "difference": "+3",
+      "teamName": "Jendouba Sport",
+      "gamesPlayed": 14,
+      "points": 25,
+      "difference": "+6",
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/OkHmM3K.png"
+    },
+    {
+      "position": 4,
+      "teamName": "ES Hammam Sousse",
+      "gamesPlayed": 14,
+      "points": 24,
+      "difference": "+8",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/1Xtxpj4_d.webp?maxwidth=760&fidelity=grand"
     },
     {
       "position": 5,
+      "teamName": "Mégrine Sport",
+      "gamesPlayed": 14,
+      "points": 24,
+      "difference": "+3",
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/JYOMHNm.png"
+    },
+    {
+      "position": 6,
+      "teamName": "AS Ariana",
+      "gamesPlayed": 14,
+      "points": 23,
+      "difference": "+4",
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/tm7TbvL.png"
+    },
+    {
+      "position": 7,
       "teamName": "EM Mahdia",
-      "gamesPlayed": 4,
-      "points": 7,
+      "gamesPlayed": 14,
+      "points": 21,
       "difference": "+2",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/rlnCfE2.png"
     },
     {
-      "position": 6,
-      "teamName": "Megrine",
-      "gamesPlayed": 4,
-      "points": 7,
-      "difference": "+2",
-      "isHighlighted": false,
-      "logoURL": "https://i.imgur.com/JYOMHNm.png"
-    },
-    {
-      "position": 7,
-      "teamName": "Jendouba Sport",
-      "gamesPlayed": 4,
-      "points": 7,
+      "position": 8,
+      "teamName": "Kalaa Sport",
+      "gamesPlayed": 14,
+      "points": 19,
       "difference": "+1",
       "isHighlighted": false,
-      "logoURL": "https://i.imgur.com/OkHmM3K.png"
+      "logoURL": "https://i.imgur.com/g71YZoO.png"
     },
     {
-      "position": 8,
-      "teamName": "CS Hammem Linf",
-      "gamesPlayed": 4,
-      "points": 5,
-      "difference": "-1",
+      "position": 9,
+      "teamName": "CS Msaken",
+      "gamesPlayed": 14,
+      "points": 16,
+      "difference": "-11",
+      "isHighlighted": false,
+      "logoURL": "https://i.imgur.com/ewvcLgm.png"
+    },
+    {
+      "position": 10,
+      "teamName": "CS Hammam-Lif",
+      "gamesPlayed": 14,
+      "points": 14,
+      "difference": "-7",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/1LI0Tav.png"
     },
     {
-      "position": 9,
-      "teamName": "AS Ariana",
-      "gamesPlayed": 4,
-      "points": 3,
-      "difference": "-2",
-      "isHighlighted": false,
-      "logoURL": "https://i.imgur.com/tm7TbvL.png"
-    },
-    {
-      "position": 10,
-      "teamName": "SA Manzel Bourguia",
-      "gamesPlayed": 4,
-      "points": 3,
-      "difference": "-2",
-      "isHighlighted": false,
-      "logoURL": "https://i.imgur.com/r5rDHKL.png"
-    },
-    {
       "position": 11,
-      "teamName": "SC Moknin",
-      "gamesPlayed": 4,
-      "points": 2,
-      "difference": "-2",
+      "teamName": "SC Moknine",
+      "gamesPlayed": 14,
+      "points": 13,
+      "difference": "-5",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/ArAPtCX.png"
     },
     {
       "position": 12,
       "teamName": "AS Oued Ellil",
-      "gamesPlayed": 4,
-      "points": 2,
-      "difference": "-3",
+      "gamesPlayed": 14,
+      "points": 11,
+      "difference": "-7",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/Nv1Wnja.png"
     },
     {
       "position": 13,
-      "teamName": "CS M'saken",
-      "gamesPlayed": 4,
-      "points": 2,
-      "difference": "-3",
+      "teamName": "SA Menzel Bourguiba",
+      "gamesPlayed": 14,
+      "points": 10,
+      "difference": "-7",
       "isHighlighted": false,
-      "logoURL": "https://i.imgur.com/ewvcLgm.png"
+      "logoURL": "https://i.imgur.com/r5rDHKL.png"
     },
     {
       "position": 14,
       "teamName": "ES Rades",
-      "gamesPlayed": 4,
-      "points": 1,
-      "difference": "-6",
+      "gamesPlayed": 14,
+      "points": 5,
+      "difference": "-18",
       "isHighlighted": false,
       "logoURL": "https://i.imgur.com/PeZdfPc.png"
     }
